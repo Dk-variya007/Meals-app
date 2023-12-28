@@ -53,7 +53,7 @@ final void Function(String identifier) onSelectScreen;
             color: Theme.of(context).colorScheme.onBackground,
           ),
           title: Text(
-            "filters",
+            "Filters",
             style: Theme.of(context).textTheme.titleSmall!.copyWith(
                 color: Theme.of(context).colorScheme.onBackground,
                 fontSize: 24),
